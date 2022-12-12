@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_snc_aso_test_app_aso_ticket</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-07 07:56:20</sys_created_on>
+        <sys_id>fb8d6cbe1b671150a386c8851a4bcbfb</sys_id>
+        <sys_name>x_snc_aso_test_app_aso_ticket</sys_name>
+        <sys_package display_value="ASO Test app" source="x_snc_aso_test_app">ebcc207e1b671150a386c8851a4bcb0f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ASO Test app">ebcc207e1b671150a386c8851a4bcb0f</sys_scope>
+        <sys_update_name>sys_security_acl_fb8d6cbe1b671150a386c8851a4bcbfb</sys_update_name>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

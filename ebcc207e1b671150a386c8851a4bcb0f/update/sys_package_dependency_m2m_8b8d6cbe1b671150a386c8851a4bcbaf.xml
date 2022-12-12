@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">d70a04c51b210110a386c8851a4bcbf3</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-07 07:56:16</sys_created_on>
+        <sys_id>8b8d6cbe1b671150a386c8851a4bcbaf</sys_id>
+        <sys_package display_value="ASO Test app" source="x_snc_aso_test_app">ebcc207e1b671150a386c8851a4bcb0f</sys_package>
+    </sys_package_dependency_m2m>
+</record_update>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_document_table>false</is_document_table>
+        <is_extendable>false</is_extendable>
+        <label>aso ticket</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_snc_aso_test_app_aso_ticket</name>
+        <number_ref display_value="ASO">d38d6cbe1b671150a386c8851a4bcbbb</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">1f0a04c51b210110a386c8851a4bcbf4</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-07 07:56:16</sys_created_on>
+        <sys_id>7a8d6cbe1b671150a386c8851a4bcb5b</sys_id>
+        <sys_name>aso ticket</sys_name>
+        <sys_package display_value="ASO Test app" source="x_snc_aso_test_app">ebcc207e1b671150a386c8851a4bcb0f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ASO Test app">ebcc207e1b671150a386c8851a4bcb0f</sys_scope>
+        <sys_update_name>sys_db_object_7a8d6cbe1b671150a386c8851a4bcb5b</sys_update_name>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
