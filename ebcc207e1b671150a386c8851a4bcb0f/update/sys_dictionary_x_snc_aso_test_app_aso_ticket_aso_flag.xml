@@ -52,6 +52,8 @@
         <sys_policy/>
         <sys_scope display_value="ASO Test app">ebcc207e1b671150a386c8851a4bcb0f</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_aso_test_app_aso_ticket_aso_flag</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-12 13:52:24</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -11,11 +11,14 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-12-07 07:56:16</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
             <sys_name>aso ticket</sys_name>
             <sys_package display_value="ASO Test app" source="x_snc_aso_test_app">ebcc207e1b671150a386c8851a4bcb0f</sys_package>
             <sys_policy/>
             <sys_scope display_value="ASO Test app">ebcc207e1b671150a386c8851a4bcb0f</sys_scope>
             <sys_update_name>sys_documentation_x_snc_aso_test_app_aso_ticket__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-12 13:52:24</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
