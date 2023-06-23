@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_df_subject_criteria">
+    <sys_df_subject_criteria action="INSERT_OR_UPDATE">
+        <decision_table display_value="test">37bbe74887e72550326ffe27cebb35af</decision_table>
+        <description/>
+        <internal_name>x_snc_aso_test_app.test</internal_name>
+        <name>test</name>
+        <sys_class_name>sys_df_subject_criteria</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-16 04:55:08</sys_created_on>
+        <sys_id>dd9b674887e72550326ffe27cebb3511</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="ASO Test app" source="x_snc_aso_test_app">ebcc207e1b671150a386c8851a4bcb0f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ASO Test app">ebcc207e1b671150a386c8851a4bcb0f</sys_scope>
+        <sys_update_name>sys_df_subject_criteria_dd9b674887e72550326ffe27cebb3511</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-16 04:55:08</sys_updated_on>
+    </sys_df_subject_criteria>
+</record_update>
