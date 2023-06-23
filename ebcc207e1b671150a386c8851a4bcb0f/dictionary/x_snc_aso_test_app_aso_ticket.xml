@@ -3,5 +3,6 @@
         <element label="aso flag" max_length="40" name="aso_flag" type="boolean"/>
         <element label="test field" max_length="40" name="test_field" type="string"/>
         <element default="有用なリンク" label="useful link" max_length="80" name="useful_link" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_1" type="string"/>
     </element>
 </database>
