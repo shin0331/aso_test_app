@@ -7,5 +7,6 @@
         <element attributes="edge_encryption_enabled=true" label="hogehoge date" max_length="40" name="u_glide_date_1" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="hogehoge" max_length="40" name="u_string_1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Demo 20230724" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="aaa" max_length="40" name="u_string_3" type="string"/>
     </element>
 </database>
