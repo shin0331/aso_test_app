@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA ASO Test Dashboard - New Tab">098d472b1b583510a386c8851a4bcb5c</canvas_page>
+        <name>ASO Test Dashboard - New Tab</name>
+        <page display_value="PA ASO Test Dashboard - New Tab">0d8d472b1b583510a386c8851a4bcb5a</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-03 06:28:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>098d472b1b583510a386c8851a4bcb5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ASO Test Dashboard - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ASO Test app" source="x_snc_aso_test_app">ebcc207e1b671150a386c8851a4bcb0f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ASO Test app">ebcc207e1b671150a386c8851a4bcb0f</sys_scope>
+        <sys_update_name>pa_tabs_098d472b1b583510a386c8851a4bcb5f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-03 06:28:52</sys_updated_on>
+    </pa_tabs>
+</record_update>
