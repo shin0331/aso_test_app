@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="7a8d6cbe1b671150a386c8851a4bcb5b" extends="task" label="aso ticket" max_length="40" name="x_snc_aso_test_app_aso_ticket" type="collection">
-        <element label="aso flag" max_length="40" name="aso_flag" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="aso flag" max_length="40" name="aso_flag" type="boolean"/>
         <element label="tel" max_length="40" name="tel" type="string"/>
         <element label="test field" max_length="40" name="test_field" type="string"/>
         <element default="有用なリンク" label="useful link" max_length="80" name="useful_link" type="string"/>

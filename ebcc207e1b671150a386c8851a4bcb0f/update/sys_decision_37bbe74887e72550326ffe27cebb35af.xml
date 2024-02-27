@@ -4,10 +4,13 @@
         <active>true</active>
         <answer_table>sys_auth_policy_answer</answer_table>
         <answer_type>reference</answer_type>
+        <delta/>
         <description/>
+        <enable_publishing>false</enable_publishing>
         <label/>
         <name>test</name>
         <reference_qualifier/>
+        <status/>
         <sys_class_name>sys_decision</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-16 04:55:08</sys_created_on>

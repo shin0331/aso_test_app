@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="aso_flag" table="x_snc_aso_test_app_aso_ticket">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>

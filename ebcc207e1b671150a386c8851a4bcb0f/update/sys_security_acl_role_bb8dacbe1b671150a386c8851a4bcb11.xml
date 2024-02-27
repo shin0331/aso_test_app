@@ -14,6 +14,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-12-12 13:52:24</sys_updated_on>
         <sys_user_role display_value="x_snc_aso_test_app.aso test role" name="x_snc_aso_test_app.aso test role">51ec247e1b671150a386c8851a4bcb5e</sys_user_role>
-        <transaction_id/>
     </sys_security_acl_role>
 </record_update>
