@@ -280,6 +280,20 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>deadend_time</element>
+            <position>20</position>
+            <sys_created_by>shintaro.tanaka@servicenow.com</sys_created_by>
+            <sys_created_on>2024-11-05 00:24:46</sys_created_on>
+            <sys_id>2c857e631b259210f5652175604bcb66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_aso_test_app_aso_ticket" sys_domain="global" view="Default view">7e5f4dcf1b6b5150a386c8851a4bcbbe</sys_ui_section>
+            <sys_updated_by>shintaro.tanaka@servicenow.com</sys_updated_by>
+            <sys_updated_on>2024-11-05 00:24:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>

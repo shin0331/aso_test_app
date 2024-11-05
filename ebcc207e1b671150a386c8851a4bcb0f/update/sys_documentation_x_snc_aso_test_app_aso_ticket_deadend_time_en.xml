@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="deadend_time" label="Deadend time" language="en" table="x_snc_aso_test_app_aso_ticket">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>deadend_time</element>
+            <help/>
+            <hint/>
+            <label>Deadend time</label>
+            <language>en</language>
+            <name>x_snc_aso_test_app_aso_ticket</name>
+            <plural>Deadend times</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>shintaro.tanaka@servicenow.com</sys_created_by>
+            <sys_created_on>2024-11-05 00:24:46</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Deadend time</sys_name>
+            <sys_package display_value="ASO Test app" source="x_snc_aso_test_app">ebcc207e1b671150a386c8851a4bcb0f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ASO Test app">ebcc207e1b671150a386c8851a4bcb0f</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_aso_test_app_aso_ticket_deadend_time_en</sys_update_name>
+            <sys_updated_by>shintaro.tanaka@servicenow.com</sys_updated_by>
+            <sys_updated_on>2024-11-05 00:24:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
