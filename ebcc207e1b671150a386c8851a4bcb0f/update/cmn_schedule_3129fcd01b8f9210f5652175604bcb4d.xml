@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="cmn_schedule">
+    <cmn_schedule action="INSERT_OR_UPDATE">
+        <cal_type/>
+        <calendar_name>test schedule - asia/tokyo</calendar_name>
+        <description>hogehoge</description>
+        <document/>
+        <document_key/>
+        <is_legacy_schedule>true</is_legacy_schedule>
+        <label>test schedule - asia/tokyo</label>
+        <name>test schedule - asia/tokyo</name>
+        <parent/>
+        <plural_label/>
+        <read_only>false</read_only>
+        <sys_class_name>cmn_schedule</sys_class_name>
+        <sys_created_by>shintaro.tanaka@servicenow.com</sys_created_by>
+        <sys_created_on>2025-01-08 02:35:50</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>3129fcd01b8f9210f5652175604bcb4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test schedule - asia/tokyo</sys_name>
+        <sys_package display_value="ASO Test app" source="x_snc_aso_test_app">ebcc207e1b671150a386c8851a4bcb0f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ASO Test app">ebcc207e1b671150a386c8851a4bcb0f</sys_scope>
+        <sys_update_name>cmn_schedule_3129fcd01b8f9210f5652175604bcb4d</sys_update_name>
+        <sys_updated_by>shintaro.tanaka@servicenow.com</sys_updated_by>
+        <sys_updated_on>2025-01-08 02:35:50</sys_updated_on>
+        <time_zone>Asia/Tokyo</time_zone>
+        <type/>
+    </cmn_schedule>
+</record_update>
