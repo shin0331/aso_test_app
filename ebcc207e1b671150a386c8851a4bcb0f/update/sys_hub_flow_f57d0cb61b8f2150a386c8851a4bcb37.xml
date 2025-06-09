@@ -58,6 +58,7 @@
         <on_delete>false</on_delete>
         <on_insert>true</on_insert>
         <on_update>false</on_update>
+        <published_version/>
         <run_flow_in>background</run_flow_in>
         <run_on_extended>false</run_on_extended>
         <run_when_setting>both</run_when_setting>
@@ -75,6 +76,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-05-30 05:20:01</sys_updated_on>
         <table>incident</table>
+        <trigger_definition/>
     </sys_flow_record_trigger>
     <sys_trigger_runner_mapping action="INSERT_OR_UPDATE">
         <active>false</active>
@@ -366,7 +368,6 @@
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=f57d0cb61b8f2150a386c8851a4bcb37"/>
     <sys_hub_pill_compound action="delete_multiple" query="attached_to=f57d0cb61b8f2150a386c8851a4bcb37"/>
     <sys_hub_flow_variable action="delete_multiple" query="model=f57d0cb61b8f2150a386c8851a4bcb37"/>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_f57d0cb61b8f2150a386c8851a4bcb37^sys_idNOT IN305e003a1b8f2150a386c8851a4bcb56,f45e003a1b8f2150a386c8851a4bcb52"/>
     <sys_documentation action="INSERT_OR_UPDATE">
         <element>table_name</element>
         <help/>
@@ -414,7 +415,6 @@
         <url_target/>
     </sys_documentation>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_f57d0cb61b8f2150a386c8851a4bcb37"/>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_f57d0cb61b8f2150a386c8851a4bcb37"/>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_f57d0cb61b8f2150a386c8851a4bcb37"/>
     <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
         <access>public</access>
@@ -737,7 +737,6 @@
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=1c6e403a1b8f2150a386c8851a4bcbcf"/>
     <sys_hub_pill_compound action="delete_multiple" query="attached_to=1c6e403a1b8f2150a386c8851a4bcbcf"/>
     <sys_hub_flow_variable action="delete_multiple" query="model=1c6e403a1b8f2150a386c8851a4bcbcf"/>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_1c6e403a1b8f2150a386c8851a4bcbcf^sys_idNOT IN166e083a1b8f2150a386c8851a4bcb9f,1a6e083a1b8f2150a386c8851a4bcba7"/>
     <sys_documentation action="INSERT_OR_UPDATE">
         <element>current</element>
         <help/>
@@ -785,7 +784,6 @@
         <url_target/>
     </sys_documentation>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_1c6e403a1b8f2150a386c8851a4bcbcf"/>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_1c6e403a1b8f2150a386c8851a4bcbcf"/>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_1c6e403a1b8f2150a386c8851a4bcbcf"/>
     <sys_hub_flow action="UPDATE">
         <sys_id>f57d0cb61b8f2150a386c8851a4bcb37</sys_id>
